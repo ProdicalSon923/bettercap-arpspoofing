@@ -86,6 +86,5 @@ This lab improved my understanding of how MITM attacks operate in real-world sce
 
 ---
 
-## Author
-Job Fuuma  
-Cybersecurity Student
+## signed 
+jobstaar
